@@ -1,7 +1,7 @@
 package org.test.multithread;
 
 /**
- * ¶àÏß³ÌµÚÒ»ÖÖ»ù´¡ÊµÏÖ·½Ê½(interface Runnable)
+ * å¤šçº¿ç¨‹ç¬¬ä¸€ç§åŸºæœ¬å®ç°æ–¹å¼(interface Runnable)
  */
 public class RunnableDemo implements Runnable {
 	

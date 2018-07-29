@@ -11,12 +11,11 @@ public class TestThread {
 		demo2.start();
 		*/
 		
-		/*2*/
+		/*2
 		ThreadDemo demo1 = new ThreadDemo("Thread-1");
 		demo1.start();
 		ThreadDemo demo2 = new ThreadDemo("Thread-2");
-		demo2.start();
-		
+		demo2.start();*/
 	}
 
 }

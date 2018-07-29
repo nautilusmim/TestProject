@@ -1,7 +1,7 @@
 package org.test.multithread;
 
 /**
- * 多线程第二种基础实现方式(class Thread)
+ * 澶氱嚎绋嬬浜岀鍩烘湰瀹炵幇鏂瑰紡(class Thread)
  */
 public class ThreadDemo extends Thread {
 	

@@ -4,7 +4,7 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 
 /**
- * 多线程第三种基本实现方式 - 带有返回值
+ * 绗笁绉嶅绾跨▼鍩烘湰瀹炵幇鏂瑰紡(interface Callable, has return value)
  */
 public class CallableDemo implements Callable<Integer> {
 	
